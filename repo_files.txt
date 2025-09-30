@@ -1,4 +1,0 @@
-.gitignore
-.rsync-exclude
-fileadded
-testing
