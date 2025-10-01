@@ -23,3 +23,4 @@ class User {
 
 $user = new User($_GET['name'], $_GET['email']);
 echo $user->getProfile();
+?>
