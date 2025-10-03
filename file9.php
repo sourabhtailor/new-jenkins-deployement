@@ -20,6 +20,5 @@ class User {
         return "This function is never called.";
     }
 }
-
 $user = new User($_GET['name'], $_GET['email']);
 echo $user->getProfile();
